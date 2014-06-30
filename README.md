@@ -5,7 +5,7 @@ A Glassware application to direct the user to ATLToDo.com. Uses the voice trigge
 
 [ATLToDo](http://www.atltodo.com/)
 
-GlassATLToDo is not affiliated with ATLToDo. If you love ATLToDo.com, you may [Donate to him](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=HTZUXS3W9VBZA&lc=US&item_name=ATLToDo&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted).
+GlassATLToDo is not affiliated with ATLToDo. If you love ATLToDo.com, you may [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=HTZUXS3W9VBZA&lc=US&item_name=ATLToDo&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) to him.
 
 
 ![Voice Trigger](http://i.imgur.com/eCieZmy.png)  
