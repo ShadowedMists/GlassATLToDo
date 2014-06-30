@@ -9,4 +9,11 @@ GlassATLToDo is not affiliated with ATLToDo. If you love ATLToDo.com, you may [D
 
 
 ![Voice Trigger](http://i.imgur.com/eCieZmy.png)  
-![ATLToDo](http://i.imgur.com/degzCTA.png)
+![ATLToDo](http://i.imgur.com/degzCTA.png)  
+
+## Installation
+Download the GlassATLToDo.apk. Download the latest [Android SDK](http://developer.android.com/sdk/index.html). Open the Terminal/Command Prompt and navigate to the installation folder > platform-tools. Execute the code:  
+
+    adb install /path/to/GlassATLToDo.apk
+
+
